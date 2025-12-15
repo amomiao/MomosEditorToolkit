@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```text
 命名空间:namespace Momos.EditorToolkit
 (d)Control 控件
@@ -29,3 +30,6 @@
 (d)Type 一些类型
 	ConfigLoader 描述一个ScriptableObject的加载, 配合ConfigWindow使用。
 ```
+=======
+# MomosEditorToolkit
+>>>>>>> 019edbbed4ade642a151bb8415220d3961f98039
